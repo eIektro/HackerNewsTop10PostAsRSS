@@ -1,2 +1,2 @@
 # WIP: HackerNewsTop10PostAsRSS
-Gets first 10 stories from `/v0/topstories` endpoint by HackerNews. And generates RSS feed for them.
+Gets first 10 stories from `/v0/topstories` endpoint by HackerNews. And generates RSS feed for them by /v0/item/<itemId> endpoint.
